@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+@import url("./reset.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-html, body, div, span, applet, object,
+ html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -23,11 +23,11 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;} */
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;} */
 
 body {
 	line-height: 1;
@@ -89,9 +89,9 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
-	}
+	} */
 
-		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+		    body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
@@ -148,7 +148,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 1em 0 0 0;
-		}
+		} 
 
 	footer {
 		margin: 2em 0 0 0;
@@ -1997,7 +1997,7 @@ input, select, textarea {
 
 /* Icons */
 
-	.icon {
+		.icon {
 		text-decoration: none;
 	}
 
@@ -2015,10 +2015,10 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
-		}
+		} 
 
 /* Header */
-
+ 
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2156,7 +2156,7 @@ input, select, textarea {
 
 					#nav ul li a.active span:before {
 						color: #e27689;
-					}
+					} 
 
 /* Footer */
 
@@ -2186,11 +2186,11 @@ input, select, textarea {
 					border-left: 0;
 					padding-left: 0;
 					margin-left: 0;
-				}
+				} */
 
 /* Main */
 
-	#main {
+		#main {
 		margin-left: 375px;
 	}
 
@@ -2596,7 +2596,7 @@ input, select, textarea {
 
 		/* Footer */
 
-			#footer .copyright li {
+				#footer .copyright li { 
 				display: block;
 				line-height: 1.25em;
 				border: 0;
@@ -2608,4 +2608,4 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-	}
+	} 
