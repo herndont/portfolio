@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
- html, body, div, span, applet, object,
+/* html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -25,9 +25,9 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;} */
 
-article, aside, details, figcaption, figure,
+/* article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;} */
+	display: block;}  */
 
 body {
 	line-height: 1;
@@ -2160,7 +2160,7 @@ input, select, textarea {
 
 /* Footer */
 
-	#footer {
+	/* #footer {
 		margin-left: 375px;
 		text-align: center;
 		background-color: #dce3e2;
@@ -2186,11 +2186,11 @@ input, select, textarea {
 					border-left: 0;
 					padding-left: 0;
 					margin-left: 0;
-				} */
+				}  */
 
 /* Main */
 
-		#main {
+		/* #main {
 		margin-left: 375px;
 	}
 
@@ -2247,7 +2247,7 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
-			}
+			} */
 
 /* Wide */
 

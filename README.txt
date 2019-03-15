@@ -46,9 +46,9 @@ Estimate of time needed to complete: 90 minutes
 
 Start time: 10:15 AM
 
-Finish time: _____
+Finish time: Not finished
 
-Actual time needed to complete: _____
+Actual time needed to complete: Not finished, did a bad job with this and had to reload from old commit.
 
 
 Feature 2: Modify the Contents
