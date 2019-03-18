@@ -40,6 +40,8 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
+LAB 04 features
+
 Feature 1: Refactoring the CSS
 		
 Estimate of time needed to complete: 90 minutes
@@ -60,3 +62,18 @@ Start time: _____
 Finish time: _____
 
 Actual time needed to complete: _____
+
+
+LAB 05 features
+
+Feature 1: Add Functionality
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+

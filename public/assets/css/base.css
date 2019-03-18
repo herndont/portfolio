@@ -1,4 +1,6 @@
 /* Basic */
+@import url("./reset.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 html {
     box-sizing: border-box;
@@ -182,8 +184,13 @@ br.clear {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
-			}
+                background-image: url("../../images/banner.jpg");
+            }
+            
+            section.one > #video{
+                width: 100%;
+                height: 100%;
+            }            
 
 			#main > section.two {
 				background-color: #f5fafa;
